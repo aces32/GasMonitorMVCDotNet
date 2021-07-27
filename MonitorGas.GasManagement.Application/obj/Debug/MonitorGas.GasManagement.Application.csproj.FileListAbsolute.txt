@@ -1,0 +1,45 @@
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Application.dll.config
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Application.dll
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Application.pdb
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.dll
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.SqlServer.dll
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Data.dll
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Data.pdb
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Data.dll.config
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.xml
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.SqlServer.xml
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.csproj.AssemblyReference.cache
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.csproj.CoreCompileInputs.cache
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.csproj.CopyComplete
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.dll
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasWinForm\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.pdb
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Application.dll.config
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Application.dll
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Application.pdb
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.dll
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.SqlServer.dll
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Data.dll
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Data.pdb
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Data.dll.config
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.xml
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.SqlServer.xml
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.csproj.AssemblyReference.cache
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.csproj.CoreCompileInputs.cache
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.csproj.CopyComplete
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.dll
+D:\Coding\SmartDataAssesment\MonitorGas\MonitorGasMvc\MonitorGas.GasManagement\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.pdb
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Application.dll.config
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Application.dll
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Application.pdb
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.dll
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Data.dll
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Data.pdb
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\bin\Debug\MonitorGas.GasManagement.Data.dll.config
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.xml
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.csproj.CopyComplete
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.dll
+C:\Users\Ayo\Documents\zoom\buari sulaimon's {Presentation)\Project\MVC .Net App\MonitorGas.GasManagementMVC\MonitorGas.GasManagement.Application\obj\Debug\MonitorGas.GasManagement.Application.pdb

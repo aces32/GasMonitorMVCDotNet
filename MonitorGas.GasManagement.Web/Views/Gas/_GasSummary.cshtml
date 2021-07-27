@@ -1,0 +1,15 @@
+﻿@model MonitorGas.GasManagement.Web.Models.GasListViewModel
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">
+            @Model.GasVendorName
+        </h3>
+    </div>
+    <div class="panel-body">
+        @Html.ActionLink("Edit", "Edit", new { id = Model.GasID }) |
+        @Html.ActionLink("Details", "Details", new { id = Model.GasID }) |
+        @Html.ActionLink("Delete", "Delete", new { id = Model.GasID })
+    </div>
+</div>
+

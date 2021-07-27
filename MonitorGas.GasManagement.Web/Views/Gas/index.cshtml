@@ -1,0 +1,16 @@
+﻿@model IEnumerable<MonitorGas.GasManagement.Web.Models.GasListViewModel>
+
+@{
+    ViewBag.Title = "index";
+}
+
+<h2>Gas Cylinders</h2>
+
+<p>
+    @Html.ActionLink("Add New", "Create")
+</p>
+
+@foreach (var gas in Model)
+{
+    @Html.Partial("_GasSummary", gas)
+}
